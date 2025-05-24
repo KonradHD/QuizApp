@@ -9,18 +9,18 @@ Celem aplikacji jest umożliwienie administratorom tworzenia i zarządzania pyta
 
 
 ## 🧰 Technologie użyte w projekcie:
-Spring Boot – główny framework aplikacji
-Spring MVC – obsługa żądań HTTP
-Spring Security – uwierzytelnianie i autoryzacja
-Thymeleaf – generowanie szablonów HTML
-Lombok – automatyzacja getterów/setterów i konstruktorów
-Maven – zarządzanie zależnościami
-HTML/CSS (Bootstrap) – interfejs użytkownika
+- **Spring Boot** – główny framework aplikacji
+- **Spring MVC** – obsługa żądań HTTP
+- **Spring Security** – uwierzytelnianie i autoryzacja
+- **Thymeleaf** – generowanie szablonów HTML
+- **Lombok** – automatyzacja getterów/setterów i konstruktorów
+- **Maven** – zarządzanie zależnościami
+- **HTML/CSS** (Bootstrap) – interfejs użytkownika
 
 
-##👤 System ról:
-ROLE_USER: użytkownik może rozwiązywać quizy
-ROLE_ADMIN: użytkownik z tą rolą może dodawać, edytować i usuwać pytania
+## 👤 System ról:
+- **ROLE_USER:** użytkownik może rozwiązywać quizy
+- **ROLE_ADMIN:** użytkownik z tą rolą może dodawać, edytować i usuwać pytania
 
 
 ## 🔐 Autoryzacja i rejestracja:
@@ -41,8 +41,8 @@ Dostęp do operacji modyfikujących pytania ograniczony tylko do ROLE_ADMIN
 
 
 ## 🔄 Możliwe rozszerzenia:
-Baza wyników użytkowników i ranking
-Kategorie pytań i filtrowanie quizu
-Obsługa wielu quizów
-REST API dla aplikacji mobilnej
-Wysyłanie wyników e-mailem
+- Baza wyników użytkowników i ranking
+- Kategorie pytań i filtrowanie quizu
+- Obsługa wielu quizów
+- REST API dla aplikacji mobilnej
+- Wysyłanie wyników e-mailem
