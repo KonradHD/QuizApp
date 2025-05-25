@@ -1,4 +1,5 @@
 # QuizApp
+W trakcie rozbudowy
 
 ## 📚 Nazwa projektu: QuizMaster
 Aplikacja webowa do tworzenia, edycji i rozwiązywania quizów, z uwierzytelnianiem użytkowników i systemem ról (USER, ADMIN).
